@@ -394,7 +394,7 @@ async function fnbots(conn, m, asu) {
       cp += "        ```sticker``` *authorpack | packname*\n"
       cp += "        or\n"
       cp += "        ```sticker```\n\n"
-      cp += "ℹ️ PS. follow @wa.bot on instagram, if this bot gets banned, new number will be posted there :)\n"
+      cp += "ℹ️ PS. follow @mouad_eljanati on instagram, if this bot gets banned, new number will be posted there :)\n"
       cp += "☕️ Buy me a coffee with ```donate``` to support this bot\n"
       sendText(toId, cp)
     } else if ((txt == "sticker")) {

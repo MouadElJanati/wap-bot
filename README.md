@@ -19,6 +19,6 @@ if (txt == "help") {
  
 ## installation:
 1. git clone this repo
-2. cd whatsapp-bot
+2. cd wap-bot
 3. npm i
 4. node m.js

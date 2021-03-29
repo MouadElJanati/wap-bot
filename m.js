@@ -126,7 +126,7 @@ const convertSticker = function(shape, author, pack, mediaData, type) {
       "pack": pack,
       "author": author,
       "shape": shape,
-      "api_key": "JDJiJDEwJGdmVUtWUHk4eldkYlBhcUJZLklRMHV2eHVUc2Z1M1hrOVZSN1N6eWZFeEN0aWloOUpNT2RX",
+      "api_key": "JDJiJDEwJDhldTdtMEMwenYvTWdEUmMxUHNPY3V0c3lVRUJ2UUJKLkwydzF2WS9tNFJuS1lTdHVXOGR1",
     };
     var url = "https://stickerman.org/api/convert";
     var boundary = "sticker";
@@ -388,7 +388,7 @@ async function fnbots(conn, m, asu) {
       }
     } 
     if ((txt == "hi") || (txt == "halo") || (txt == "help") || (txt == "commands") || (txt == "menu") || (txt == "bot") || (txt == "cmd")) {
-      let cp = "👋 hello, please send me a video, image, or gif and I'll turn it into a sticker!\n"
+      let cp = "👋 hello I'm Mouad, please send me a video, image, or gif and I'll turn it into a sticker!\n"
       cp += "📦 If you send a picture/video/gif, then the shape is not a square, then I will change it to contain sticker!\n"
       cp += "ℹ️ ps. You can change author name and sticker pack name if you send\n\n"
       cp += "        ```sticker``` *authorpack | packname*\n"

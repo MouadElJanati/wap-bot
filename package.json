@@ -85,13 +85,13 @@
   },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Terror-Machine/whatsapp-bot"
+        "url": "https://github.com/MouadElJanati/wap-bot"
     },
     "keywords": [
         "fnbots",
         "fnbots-wa",
         "whatsapp",
-        "whatsapp-bot"
+        "wap-bot"
     ],
     "license": "MIT"
 }
